@@ -1,5 +1,5 @@
 {
-  "name": "bwcl",
+  "name": "bwcl-test",
   "version": "0.0.21",
   "description": "component library for react",
   "main": "dist/cjs/index.js",
@@ -23,7 +23,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bwhite03/bwcl.git"
+    "url": "https://github.com/bwhite03/bwcl-test.git"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
